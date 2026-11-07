@@ -4,12 +4,12 @@
 
 int main(void)
 {
-    int user_input, random = 64;
+    int user_input, random;
     int no_of_input = 0;
     srand(time(NULL)); 
 
-    printf("Welcome to the world of Guessing Numbers\n");
-    random = rand() % 100; 
+    printf("***Welcome to the world of Guessing Numbers***\n");
+    random = rand() % 100 + 1; 
 
     do
     {
