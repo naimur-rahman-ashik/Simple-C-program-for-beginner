@@ -27,14 +27,14 @@ int main(void)
         }
         else
         {
-            printf("\nCongratulation, you have guessed the number at %d attempts!!\n", no_of_input);
+            printf("\nCongratulation, You have guessed the number at %d attempts!!\n", no_of_input);
         }
 
     }
     while(user_input != random);
 
-    printf("\n Bye Buy, Thanks for playing");
-    printf("\n Devoloped by: Ashik");
+    printf("\nBye Bye, Thanks for playing");
+    printf("\nDevoloped by: Ashik");
 
     return 0;
 
