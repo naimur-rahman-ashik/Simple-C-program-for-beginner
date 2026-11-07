@@ -53,7 +53,7 @@ int main (void)
         }
         if (!isnan(result))
         {
-            printf("\nResult of operation is: %.2f\n", result);
+            printf("\nResult of operation is: %g\n", result);
         }
         
     }
