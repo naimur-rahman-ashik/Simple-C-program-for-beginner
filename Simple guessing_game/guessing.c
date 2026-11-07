@@ -27,7 +27,7 @@ int main(void)
         }
         else
         {
-            printf("\nCongratulation My Babby nitu, you have guessed the number at %d attempts!!\n", no_of_input);
+            printf("\nCongratulation, you have guessed the number at %d attempts!!\n", no_of_input);
         }
 
     }
